@@ -48,4 +48,4 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishitakoshta&show_icons=true&locale=en&layout=compact" alt="nishitakoshta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishitakoshta&show_icons=true&locale=en" alt="nishitakoshta" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitakoshta&" alt="nishitakoshta" /></p>
+<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nishitakoshta&show_icons=true&locale=en" alt="nishitakoshta" /><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishitakoshta&" alt="nishitakoshta" /></p>
