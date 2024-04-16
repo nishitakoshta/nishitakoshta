@@ -3,7 +3,7 @@
 <h3 align="center">Backend developer @Lattice Innovations</h3>
 <img align="right" width="250" src="https://miro.medium.com/v2/resize:fit:1400/1*lhOax3cZATGZwEhG0uTYRA.gif" alt="">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nishitakoshta&label=Profile%20views&color=0e75b6&style=flat" alt="nishitakoshta" /> </p>
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=nishitakoshta&label=Profile%20views&color=0e75b6&style=flat" alt="nishitakoshta" /> </p>
 
 - 🔭 I’m currently working on **Repligen**
 
